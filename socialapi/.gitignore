@@ -6,5 +6,5 @@ __pycache__
 .venv
 .vscode/
 *.png
-pyproject.toml
-requirements-dev.txt
+../pyproject.toml
+../requirements-dev.txt
